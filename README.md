@@ -1,7 +1,5 @@
 # JavaScript-Dropbox-API
 
-*** 
-
 Few methods which are available in the Dropbox API which allow us to interact files, folders and manipulate the same
 
 Functionality 🎰
