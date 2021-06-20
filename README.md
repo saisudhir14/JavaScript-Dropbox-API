@@ -22,9 +22,11 @@ To create ⛏️
 Step 1 : Create developers account here at [Dropbox developers](https://www.dropbox.com/developers "Dropbox developers") 📝 
 
 Step 2 : Click on App console
+
 ![Click on App Console button](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9jkukfrujh4i0sa1vg8i.png)
  
-Step 3: Click on Create app button 
+Step 3: Click on Create app button
+
 ![Click on create app](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0q4hyrr39lesuf090eng.png)
 
 Step 4 : Choose an API 
