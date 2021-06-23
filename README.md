@@ -1,18 +1,24 @@
-## JavaScript-Dropbox-API
+## JavaScript-Dropbox-API.
 
+If you're looking for a cool interesting project which deals with API and JavaScript. You're ar the right place!
 
-Few methods which are available in the Dropbox API which allow us to interact files, folders and manipulate the same
+### Getting Started
 
-Functionality 🎰
+- A dropbox developers account. You can create it here in case if you dont have one! ☺️ [Dropbox developers](https://www.dropbox.com/developers "Dropbox developers") 
+
+- VS Code or any of your favorite editor 
+
+### Functionality 🎰
 1. Get files using Dropbox API              
 2. Get Thumbnails
 3. Move Files to other folders.
 
 There are many other methods to explore and manipulate the files. Feel free to explore and find them here [Dropbox developers](https://www.dropbox.com/developers "Dropbox developers") 📝
+I will be using few methods which are available in the Dropbox API which allow us to interact files, folders and manipulate
 
 ---
 
-To create ⛏️ 
+### To create ⛏️ 
 * Create a search box for searching the files, folders or directories        
 * List out all the files which are available in the dropbox
 * Organize any file or any given folder using the search box, on hitting organize -> Files should be able to move to different folders based on the Date modified!
