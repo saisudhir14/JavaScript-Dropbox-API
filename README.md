@@ -2,13 +2,13 @@
 
 If you're looking for a cool interesting project which deals with API and JavaScript. You're ar the right place!
 
-### Getting Started
+### Getting Started 🚀
 
 - A dropbox developers account. You can create it here in case if you dont have one! ☺️ [Dropbox developers](https://www.dropbox.com/developers "Dropbox developers") 
 
 - VS Code or any of your favorite editor 
 
-### Functionality 🎰
+### Aim 🧐
 1. Get files using Dropbox API              
 2. Get Thumbnails
 3. Move Files to other folders.
@@ -42,3 +42,11 @@ Step 5 : Choose the type of access you need.
 Feel free to choose the type of access you need here based on the options given below.
 ![Access type](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dqk9k101m03a6qtdxei0.png)
  
+----
+
+### Deploy 💫
+
+
+---
+
+### What did you learn at the end? 🎓
