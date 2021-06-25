@@ -8,6 +8,8 @@ If you're looking for a cool interesting project which deals with API and JavaSc
 
 - VS Code or any of your favorite editor 
 
+----
+
 ### Aim 🧐
 1. Get files using Dropbox API              
 2. Get Thumbnails
