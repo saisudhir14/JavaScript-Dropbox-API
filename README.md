@@ -47,8 +47,10 @@ Feel free to choose the type of access you need here based on the options given 
 ----
 
 ### Deploy 💫
-
+-
 
 ---
 
 ### What did you learn at the end? 🎓
+- Async / Await 
+- Access or manage files using Dropbox API
